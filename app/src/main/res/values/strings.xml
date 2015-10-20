@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">F21</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+        <string name="textured">
+    <center>A textured A-line dress featuring a mock neck, box pleats, a concealed back zipper, and a dotted crochet panel along the hem.
+
+    Sleeveless
+    Partially lined, knit
+    94% polyester, 6% spandex; Lining: polyester
+    Hand wash cold
+    Made in USA
+    FIT DETAILS:
+
+    Made from Small
+    30" full length, 30" chest, 26" waist
+
+    Model Info: Height: 5'9 | Bust: 33 B | Waist: 23 | Hip: 34 | Wear Size: small
+
+    Product Code : 2000150538</center>
+    </string>
+
+</resources>
